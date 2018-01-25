@@ -1,5 +1,5 @@
 body {
-	background-image: ep_naturalwhite.png;
+	background:url(ep_naturalwhite.png);
 	background-size: cover;
 }
 
@@ -9,7 +9,7 @@ body {
 	margin-left: 200px;
 	margin-right: 200px;
 	text-align: left;
-	color:#ffffff;
+	color:#black;
 	padding: 10px 150px 10px 150px;
 
 #pic {
