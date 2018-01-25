@@ -1,5 +1,5 @@
 body {
-	background:url(ep_naturalwhite.png);
+	background-image:url(brickwall.png);
 	background-size: cover;
 }
 
@@ -18,7 +18,7 @@ body {
 
 h1 {
 	font-family: Palatino, 'Palatino Linotype', serif;
-	font-size: 48px;
+	font-size: 64px;
 	
 }
 
