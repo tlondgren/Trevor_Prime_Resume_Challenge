@@ -17,7 +17,7 @@ h2 {
 
 p {
   	font-size: 16px;
-	color:red;
+	color:#ffffff;
 	background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
 	background-size: cover;
 }
