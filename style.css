@@ -26,5 +26,10 @@ p {
 	
 }
 
+li {
+	font-size: 18px;
+	text-align: left;
+}
+
 #footer {
   font-size: 0.75rem;
