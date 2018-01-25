@@ -7,6 +7,10 @@ body {
 	background-size: cover;
 }
 
+#pic {
+	float: right;
+}
+
 h1 {
 	font-family: Palatino, 'Palatino Linotype', serif;
 	font-size: 48px;
