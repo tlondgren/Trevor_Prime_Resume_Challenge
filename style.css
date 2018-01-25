@@ -13,7 +13,7 @@ body {
 	padding: 10px 150px 10px 150px;
 
 #pic {
-	
+	float: right;
 }
 
 h1 {
