@@ -11,11 +11,12 @@ h1 {
 	font-family: Palatino, 'Palatino Linotype', serif;
 	font-size: 48px;
 	color:#2e69a3;
+	border: 5px solid #FFF;
 }
 
 h2 {
 	font-size: 32px;
-	border: 5px solid #FFF;
+	
 }
 
 p {
